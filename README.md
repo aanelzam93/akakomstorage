@@ -6,6 +6,9 @@ pada aplikasi ini adalah sedikit contoh penggunaan cloud storage.
 dimana user yang mendaftar akan bisa memiliki akun untuk menyimpan file nya di dalam cloud storage ini.
 
 untuk aplikasi ini baru file dengan type .pdf saja
+->aplikasi ini dikembangkan berbasis web dengan menggunakan pemrograman PHP
+-> aplikasi ini di bagnun dengan menggunkan framework CodeIgniter.
+
 
 untuk pengembangan akan terus di kembangkan..
 
